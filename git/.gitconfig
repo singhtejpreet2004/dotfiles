@@ -1,0 +1,9 @@
+[user]
+	name = Tejpreet Singh
+	email = singhtejpreet2004@gmail.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
